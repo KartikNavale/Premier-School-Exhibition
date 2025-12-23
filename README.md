@@ -1,0 +1,1 @@
+This project is a simple landing page built using HTML, CSS, and Vanilla JavaScript. It is created without using any third-party libraries or frameworks, focusing purely on core web technologies for structure, styling, and interactivity.
