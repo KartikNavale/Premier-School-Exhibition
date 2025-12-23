@@ -170,7 +170,7 @@ html {
 /* IMAGES */
 /* HERO IMAGES WRAPPER */
 .hero-images {
-  height: 551px;
+  height: 85vh;
   display: flex;
   gap: 12px;
   overflow: hidden;
